@@ -1,2 +1,2 @@
 # Introducció
-##Hola
+La gestió de dades és molt important.
